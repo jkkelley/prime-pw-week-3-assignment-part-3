@@ -1,1 +1,23 @@
 /* give your assignment a fun background color */
+
+.backimg {
+
+  border: 2px solid #39ff14;
+  background-size: cover;
+  padding: 30vh;
+  z-index: -1;
+  background-image: url(../img/matrixBackground.png);
+  background-repeat: no-repeat;
+}
+
+.title {
+  text-align: center;
+  color: #39ff14;
+
+}
+
+
+.console {
+  text-align: center;
+  color: #39ff14;
+}
